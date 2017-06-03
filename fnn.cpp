@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------
-//		File:			ann.cpp
+//		File:			fnn.cpp
 //		Version: 		v2.0
 //		Programmer:		Jack LeBien
 //		Last modified:	01/17/17
